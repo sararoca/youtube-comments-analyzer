@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pytest_cache/
+.pytest_cache/
+
+# Virtual env & secrets
+venv/
+.env/
+.env.*
+
+# Docker / volumes
+docker-data/
+pgdata/
+**/pgdata/
+**/data/
+**/volumes/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Project data dumps
+comentarios_*.json
+videos_*.json
+detailed_channels.json
+
+# Logs & temp
+*.log
+*.tmp
+*.cache
+
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+transformers
+torch
+pydantic
+huggingface_hub[hf_xet]
+google-api-python-client
+tqdm
+langdetect
+
