@@ -8,7 +8,7 @@ __pycache__/
 
 # Virtual env & secrets
 venv/
-.env/
+.env
 .env.*
 
 # Docker / volumes
